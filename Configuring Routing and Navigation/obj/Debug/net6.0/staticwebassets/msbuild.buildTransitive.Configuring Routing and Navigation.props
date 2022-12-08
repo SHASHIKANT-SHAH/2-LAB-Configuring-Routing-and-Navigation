@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Configuring Routing and Navigation.props" />
+</Project>
